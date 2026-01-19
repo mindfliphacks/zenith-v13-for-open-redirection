@@ -5,11 +5,10 @@ A Flask-based security tool designed to detect Open Redirect vulnerabilities. It
 ## Installation
 
 1. Clone the repository.
-2. Install dependencies:
+2. git clone https://github.com/mindfliphacks/zenith-v13-for-open-redirection.git
+3. cd zenith-v13-for-open-redirection
+4.  Install dependencies:
    ```bash
    pip install -r requirements.txt
+   python3 zenith-v13.py
 
-3.
-    git clone https://github.com/mindfliphacks/zenith-v13-for-open-redirection.git
-4. cd zenith-v13-for-open-redirection
-5. python3 zenith-v13.py
